@@ -1,0 +1,27 @@
+#header {
+    background: url("https://images.unsplash.com/photo-1546096032-7ea178672220?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+.heading {
+    color: white;
+}
+
+.nav-item {
+    color: white;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+span {
+    color: white;
+}
+
+img:hover {
+    transform: scale(1.2);
+    transition: all 0.5s;
+}
